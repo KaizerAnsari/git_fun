@@ -1,1 +1,1 @@
-utility function for jasim
+utility function for MR Krazer
